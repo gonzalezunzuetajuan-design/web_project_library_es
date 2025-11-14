@@ -350,7 +350,6 @@ ul {
 .footer__columns {
   display: flex;
   color: white;
-  padding-top: 60px;
 }
 
 .footer__column {
